@@ -20,4 +20,4 @@ An other "OPEN the tree" is there too
 
 
 
-*Particularly proud of the [insertion of the children inside the tree without modifying the status of each other nodes](https://github.com/Hippolyte-Menou/I2B2MetadataTreeInShiny/blob/main/server.R#L154)*
+*Particularly proud of the [insertion of the children inside the tree without modifying the status of every other nodes](https://github.com/Hippolyte-Menou/I2B2MetadataTreeInShiny/blob/main/server.R#L154)*
